@@ -1,9 +1,9 @@
-### Hi there I am CraterMaik :D
+### Hola Yo soy Juan Pablo de Fomundi
 
-- 🔭 I'm currently working on [portalmybot](https://portalmybot.com)
-- 📫 Come join my [Discord Server](https://portalmybot.com/discord) to have some talk :)
-- 😄 Pronouns: Crater, 
-- ⚡ Fun fact: I like gaming and music indie
+- 🔭 Estoh trabajando en: [portalmybot](https://portalmybot.com)
+- 📫 Ven engra a mi [Discord Server](https://portalmybot.com/discord)ara hablar con más gente
+- 😄 Pronouns: Cratonrex, 
+- ⚡ Fun fact: 
 ---
 
 ### Some of my Projects :)
