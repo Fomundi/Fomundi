@@ -1,20 +1,18 @@
-# 🖐 Hola soy Kamerr Ezz !!
+# Soy Fomundi !!
 
-Soy un apasionado creador de contenido audiovisual 📹 y muy fan de la programacion, lo cual puedes encontrar este perfil. Adoro crear paginas webs, tanto la parte visual como la logica detras de ella.
+Soy una persona que le encanta la programación, con también lo es la fotografía.
 
-Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una buena persona tanto en lo personal y este mundo de la creacion audiovisual y la tecnologia.
+Actualmente estoy trabajando en un proyecto que va a beneficiar a las personas de mi comunidad de discord, ya que estoy reañizando un portal donde podrán encontrar guias, también podrán colocar sus bots, etc.
 
 ## 🌱 Proyectos ..
-*   [ZeewApi](https://github.com/KamerrEzz/zeewapi) - Una api de imagenes randoms y manipulacion de imagenes de tarjetas para creadores de bots en discord.js
-*   [KamerrStudio]() - Mi Propia Marca de contenido Audiovisual y programacion.
+*   [Fomundi]() - Mi Propia Marca de contenido fotográfico y la programacion.
 
 ## 🎓 Habilidades ..
 
 |     	| 
 |:----------------------------:	|
-| 📑  Administrador de empresas 	
-| 📨 Marketing Digital	|
-|   💾 Desarrollador Web 	|   
+|. 💾 Desarrollador Web 	|   
+|.    Fotografo
 
 ### SKILLS
 
@@ -26,46 +24,20 @@ Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una bu
 |              MEDIA             	|       NOMBRE       	|
 |:----------------------------:	|:-------------------:	|
 | 📧  	| kamerezz.com	|
-| ![youtube](https://i.imgur.com/v76ZdvR.png) 	|
-| ![facebook](https://i.imgur.com/jGWS6Ep.png) 	| [KamerrEzz](https://www.facebook.com/KamerrEzz)	|
-| ![twitter](https://i.imgur.com/HeZ0zJn.png) 	| [KamerrEzz](https://twitter.com/KamerrEzz/)	|
-| ![instagram](https://i.imgur.com/tu01NLm.png) 	| [KamerrEzz](https://www.instagram.com/KamerrEzz/)	|
+| ![youtube](https://i.imgur.com/v76ZdvR.png)|
+| ![twitter](https://i.imgur.com/HeZ0zJn.png) 	| [fomundi1](https://twitter.com/fomundi/)	|
+| ![instagram](https://i.imgur.com/tu01NLm.png) 	| [fomundi1](https://www.instagram.com/fomundi1/)	|
 
-## 💰 Donaciones:
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3YEOZ)
-
-~ Si crees que puedo mejorar esto, dimelo, me ayudarias.
-
-
-### Hola Yo soy Juan Pablo de Fomundi
-
-- 🔭 Estoh trabajando en: [portalmybot](https://portalmybot.com)
-- 📫 Ven engra a mi [Discord Server](https://portalmybot.com/discord)ara hablar con más gente
-- 😄 Pronouns: Cratonrex, 
-- ⚡ Fun fact: 
----
-
-### Some of my Projects :)
+### Algunos de mis proyectos
 
 Name | Source | Description
 --- | --- | ---
-PortalMyBOT | [Web](https://portalmybot.com) | Web platform
-PortalMyBOT Codes | [Web](https://portalmybot.com/codes) | Code web platform
-PortalMyBOT List | [Web](https://portalmybot.com/mybotlist) | Bot discord web platform
-MyBOT Team | [Web](https://portalmybot.com/team) | Community on Discord
-CraterMaik's Discord | [Discord](https://discord.gg/Y8ePQ6z) | List of more projects
-
+PortalFomundi | [Web](https://portalfomundi.tk) | Web platform
 ---
 
 ### Social Media
 
-- Mail: fomundi1@gmail.com
+- Mail: portalfomundi1@gmail.com
 - GitHub: [@Fomundi](https://github.com/fomundi)
-- Discord Server: [Fomundi](https://portalmybot.com/discord)
-- YouTube: [Fomundi](https://youtube.com/cratermaik)
-- Twitter: [Fomundi](https://twitter.com/fomundi1)
-- Instagram: [CraterMaik](https://instagram.com/crater.maik)
-- Twitch: [CraterMaik](https://www.twitch.tv/cratermaik)
-- Patreon: [CraterMaik](https://www.patreon.com/cratermaik)
+- Patreon: [Fomundi]()
 
