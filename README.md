@@ -4,15 +4,15 @@ Soy una persona que le encanta la programación, con también lo es la fotograf�
 
 Actualmente estoy trabajando en un proyecto que va a beneficiar a las personas de mi comunidad de discord, ya que estoy reañizando un portal donde podrán encontrar guias, también podrán colocar sus bots, etc.
 
-## 🌱 Proyectos ..
+## Proyectos ..
 *   [Fomundi]() - Mi Propia Marca de contenido fotográfico y la programacion.
 
-## 🎓 Habilidades ..
+## Habilidades ..
 
 |     	| 
 |:----------------------------:	|
-|. 💾 Desarrollador Web 	|   
-|.    Fotografo
+|. Desarrollador Web 	|   
+|. Fotografo
 
 ## 📫  Redes Sociales: 
 
