@@ -14,7 +14,7 @@ Actualmente estoy trabajando en un proyecto que va a beneficiar a las personas d
 |. Desarrollador Web 	|   
 |. Fotografo
 
-## 📫  Redes Sociales: 
+## Redes Sociales: 
 
 
 |              MEDIA             	|       NOMBRE       	|
